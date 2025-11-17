@@ -43,11 +43,6 @@ const Index = () => {
       <div className="container mx-auto px-4 py-12 max-w-5xl">
         
         <div className="text-center mb-16 animate-fade-in">
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 tracking-tight">
-            ЭРГОНОМИЧНЫЙ
-            <br />
-            <span className="text-primary">ДИЗАЙН</span>
-          </h1>
           <p className="text-muted-foreground text-lg md:text-xl">
             Премиальные автомобильные подушки класса люкс
           </p>
